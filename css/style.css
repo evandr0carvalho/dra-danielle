@@ -103,15 +103,17 @@
   }
   
   .text-container h2 {
-    font-size: 70px;
+    font-size: 40px;
     font-family: var(--font-primary);
-    margin-top: 150px;
+    
   }
   
   .text-container p {
     font-size: 16px;
     width: 30%;
     font-family: var(--font-text);
+    font-weight: bolder;
+    padding: 20px;
   }
 
 /* SOBRE */
