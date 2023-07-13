@@ -68,8 +68,8 @@
     height: 400px;
   }
 
-  .background-section {
-    background-image: url("/imagens/testepng.png");
+  .background-section img{
+   /* background-image: url("/imagens/testepng.png");*/
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
