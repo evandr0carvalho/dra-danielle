@@ -69,7 +69,7 @@
   }
 
   .background-section {
-    background-image: url("/imagens/testepng.png");
+    background-image: url("../imagens/testepng.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
